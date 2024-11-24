@@ -20,11 +20,11 @@ tsx index.ts
 This should return a JSON object with a movie recommendation.
 
 ```json
-Parsed result: {
-  title: 'The Shawshank Redemption',
-  year: 1994,
-  rating: 9,
-  genres: [ 'Drama', 'Thriller' ]
+{
+  "title": "The Shawshank Redemption",
+  "year": 1994,
+  "rating": 9,
+  "genres": ["Drama", "Thriller"]
 }
 ```
 
