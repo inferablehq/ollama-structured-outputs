@@ -11,6 +11,10 @@ A TypeScript-based parser implementation that uses Zod for schema validation wit
 
 1. Install dependencies:
 
+```bash
+npm install
+```
+
 ## Usage
 
 ```bash
